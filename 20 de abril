@@ -1,0 +1,80 @@
+#ETXM3U 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast FHD
+http://cdnrede.com/live/mauri123/mauri123/232603.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast FHD [H265]
+http://cdnfast.online/live/75461356/79080385/113227.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Toonscast FHD²
+https://cdnfast.online/live/75461356/79080385/113226.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast HD²
+http://cdnfast.online/live/75461356/79080385/113225.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast HD
+http://cdnrede.com/live/mauri123/mauri123/232604.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast HD²
+http://cdnrede.com/live/mauri123/mauri123/232605.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk3vnh5gbmchvdXEp7kBKNrG0klWTr7HYw9X99X52-GQ&s" group-title="Canais | Infantil" , Tooncast SD
+http://slxl.mx/live/009296169212/121369555/3840.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel FHD [H265]
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/71892.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel FHD
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/71891.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel HD
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/71893.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbYqUuxk8RiM7TcOQEadkbSUwf2ZzR4uWgTsPuU-YXbTMRZVzkN70mQM&s=10" group-title="Canais | Infantil" , Disney Channel 4K [FHDR]
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/103508.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 4K FHDR
+http://slxl.mx/live/009296169212/121369555/118955.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD [H265]
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/72238.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD
+https://bdta.pro/MARCOANTONIO2223/726KDFzwb/72237.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD²
+http://7go.xyz:8080/live/72m9u9yu/den7gw4u/58738.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD³
+http://slxl.mx/live/009296169212/121369555/3871.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="Canais | Esportes" , Premiere 2 FHD [H265]²
+http://4tv.site:2082/live/ElianaIra/Gdjdhd7572748/49929.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob FHD [H265]
+http://cdnrede.com/live/mauri123/mauri123/59850.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob FHD [H265]²
+http://bdta.pro/MARCOANTONIO2223/726KDFzwb/72099.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob FHD [H265]³
+https://cdnfast.online/live/75461356/79080385/113210.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob FHD [H265]⁴
+http://cdnfast.online/live/0470504061/0072413828/18257.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob FHD
+http://cdnrede.com/live/mauri123/mauri123/5178.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob FHD²
+http://srvdp.me:2082/live/785455225/785455225/8887.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob HD
+http://cdnfast.online/live/75461356/79080385/18258.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSJkF5zJDr25CrnT6Xp_TDMMCQkDyB8TFq8o-C0ECbpg&s" group-title="Canais | Infantil" , Gloob HD²
+http://srvdp.me:2082/live/785455225/785455225/8888.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXuJBOjJKQM6GIGRgqqaKgfABF9-dpJMYXFNm5z4A&s" group-title="Canais | Esporte" , SportTV FHD [H265]
+http://srvdp.me:2082/live/785455225/785455225/81591.m3u8
